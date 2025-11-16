@@ -1,0 +1,19 @@
+{
+  "token": "MTQzOTMwMjEyNjI4MjIxNTQ2NQ.GDeBfZ.3GL1t6EPu2vNjAHYD0ubA5AHW_r849VMI7vDDc",
+  "clientId": "1439302126282215465",
+  "guildId": "1437775892796412009",
+  "welcomeChannel": "1437779476686573762",
+  "welcomeEnabled": true,
+  "ticketRoles": {
+    "tech": "1437777005981732987",
+    "secu": "1437776909885898836",
+    "info": "1437777071807135905",
+    "urgence": "1437777125074665482"
+  },
+  "ticketCategories": {
+    "tech": "1439292063513444473",
+    "secu": "1439307066392055839",
+    "info": "1439307447234855013",
+    "urgence": "1439307543447998755"
+  }
+}
